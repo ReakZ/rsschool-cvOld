@@ -2,10 +2,10 @@
 
 [e-mail](dmkolosov@inbox.ru)
 
-### About me
+### About me:
 Junior Fron-End developer. Passionate about learning new technologies, bringing ideas of life, and working with dedicated team to build efficient and robust applicitaions suited to the user's need.
 
-### My skills
+### My skills:
 - Theoretical and practical knowledge testing web application
 - Html
 - Css
@@ -15,14 +15,14 @@ Junior Fron-End developer. Passionate about learning new technologies, bringing 
 - Bootstrap
 
 ### My expirience:
-- participation in testing web applications
-- participation in the development of content publishing tools
-- development of auto-tests
+- Participation in testing web applications
+- Participation in the development of content publishing tools
+- Development of auto-tests
 
-### My education
+### My education:
 Courses [code-basics.com](https://code-basics.com/)
 Courses [learn.javascript.ru](https://learn.javascript.ru/)
 
-### Languages
+### Languages:
 - Russian - main
 - English - A2
